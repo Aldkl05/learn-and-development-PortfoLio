@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: opx;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+}
+.container1{
+       box-sizing: border-box;
+       background-color: black;
+       height: 660px;
+       width: 645px;
+}
+.title1{
+    box-sizing: border-box;
+    background-color: black;
+    height: 80px;
+    width: 645px;
+    padding: 20px;
+}
+.descrpt{
+    padding-left: 100px;
+    padding-top: 60px;
+}
+.container2{
+    box-sizing: border-box;
+    height: 660px;
+    width: 645px;
+    
+    background-image: url('https://media-exp1.licdn.com/dms/image/D5603AQGYFXZ7U8kKOQ/profile-displayphoto-shrink_200_200/0/1647846038743?e=1657152000&v=beta&t=TP37MI1oFNjM9lhoIgsBlr6ky13d2UWNwH8_RsigTZ8'); background-repeat: no-repeat;
+    background-size: cover;
+}
+.arrange{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color: azure;
+    list-style: none;
+}
