@@ -28,13 +28,14 @@
     height: 660px;
     width: 645px;
     
-    background-image: url('https://media-exp1.licdn.com/dms/image/D5603AQGYFXZ7U8kKOQ/profile-displayphoto-shrink_200_200/0/1647846038743?e=1657152000&v=beta&t=TP37MI1oFNjM9lhoIgsBlr6ky13d2UWNwH8_RsigTZ8'); background-repeat: no-repeat;
+    background-image: url(https://filmfare.wwmindia.com/content/2022/may/akshay-kumar-wont-be-attending-cannes-film-festival.jpg); background-repeat: no-repeat;
     background-size: cover;
 }
 .arrange{
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    color: azure;
+    color: yellow;
     list-style: none;
+    font-size: x-large;
 }
